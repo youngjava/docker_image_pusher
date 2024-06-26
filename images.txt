@@ -1,1 +1,3 @@
-dpage/pgadmin4
+redis
+mysql
+mongo
