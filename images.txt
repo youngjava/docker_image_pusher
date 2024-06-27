@@ -1,2 +1,1 @@
-debian
-ubuntu
+thingsboard/tb-postgres
