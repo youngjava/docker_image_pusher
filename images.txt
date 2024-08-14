@@ -1,1 +1,1 @@
-thingsboard/tb-postgres
+thingsboard/tb-gateway
