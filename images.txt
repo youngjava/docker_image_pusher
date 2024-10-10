@@ -4,3 +4,4 @@ chirpstack/chirpstack-rest-api:4
 postgres:14-alpine
 redis:7-alpine
 eclipse-mosquitto:2
+emqx/emqx:5.8.0
